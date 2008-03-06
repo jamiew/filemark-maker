@@ -1,0 +1,4 @@
+CFBundleName = "FilemarkMaker";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "FilemarkMaker version 1.0 Copyright 2007 Jamie Wilkinson";
+NSHumanReadableCopyright = "Copyright 2007 Jamie Wilkinson.";
